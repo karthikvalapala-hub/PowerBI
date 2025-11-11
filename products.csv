@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice
+P200,Product 1,Electronics,104.52,207.23
+P201,Product 2,Software,49.22,80.89
+P202,Product 3,Office Supplies,36.6,97.88
+P203,Product 4,Furniture,181.0,477.65
+P204,Product 5,Office Supplies,149.12,365.41
+P205,Product 6,Office Supplies,124.1,209.71
+P206,Product 7,Electronics,103.91,235.09
+P207,Product 8,Office Supplies,183.74,339.87
+P208,Product 9,Office Supplies,86.83,118.51
+P209,Product 10,Office Supplies,108.59,309.61
+P210,Product 11,Software,77.24,111.71
+P211,Product 12,Office Supplies,150.23,437.23
+P212,Product 13,Furniture,27.16,54.4
+P213,Product 14,Furniture,56.62,86.81
+P214,Product 15,Electronics,169.05,367.76
+P215,Product 16,Furniture,77.58,215.0
+P216,Product 17,Electronics,147.09,370.37
+P217,Product 18,Software,117.62,311.91
+P218,Product 19,Office Supplies,85.36,203.65
+P219,Product 20,Software,188.0,459.87
+P220,Product 21,Electronics,101.91,278.07
+P221,Product 22,Office Supplies,15.92,26.26
+P222,Product 23,Software,40.78,84.86
+P223,Product 24,Software,19.77,31.6
+P224,Product 25,Office Supplies,191.49,570.22
+P225,Product 26,Furniture,73.51,213.13
+P226,Product 27,Office Supplies,100.11,127.24
+P227,Product 28,Electronics,24.28,59.97
+P228,Product 29,Electronics,88.43,253.39
+P229,Product 30,Electronics,140.8,214.73
