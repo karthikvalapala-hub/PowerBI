@@ -1,0 +1,6 @@
+This repository is for HealthCare related reports.
+Files included:
+- datasets/: sample CSV datasets (clinical, operational, and financial)
+- pbix_files/: placeholder pbix file names
+- exports/: exported PDFs and visuals
+- documentation/: data model and design notes
